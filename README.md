@@ -6,6 +6,8 @@ It is also likely that similar crisis will arise in African countries.
 
 [Mindmap of the problem](https://docs.google.com/presentation/d/1UVcfOxayAshpccQHpWjoXpEPnWqnkyWVxpxBRi_Jfv4/edit?ts=5e773a70#slide=id.p)
 
+# Propositions
+
 ![2 level fixed pressure regulator](/images/cjlloljjpboomneh.png)
 material: aquarium tube 4mm internal / 6mm external
 Section not enough enough I would have to double the diameter
