@@ -8,6 +8,23 @@ It is also likely that similar crisis will arise in African countries.
 
 # Propositions
 
+## Recovid-MD - close to a medical device grade ventilator
+This is our current target.
+
+![recovid-MD](/images/principe.001.png)
+
+## Recovid-simple
+
+![recovid-simple](/images/principe.002.png)
+
+## Recovid-DIY
+
+It is not clear if this type of device is of any use in a Hospital.
+No sensors, so no clinically usable data.
+
+
+## Scrap-made presure valves (APL, PEEP)
+
 ![2 level fixed pressure regulator](/images/cjlloljjpboomneh.png)
 material: aquarium tube 4mm internal / 6mm external
 Section not enough enough I would have to double the diameter
