@@ -21,11 +21,11 @@ This is our current target.
 
 It is not clear if this type of device is of any use in a Hospital.
 No sensors, so no clinically usable data.
+![recovid-giy](/images/ventilation_low_tech_v3.svg)
 
 
 ## Scrap-made presure valves (APL, PEEP)
 
-![2 level fixed pressure regulator](/images/cjlloljjpboomneh.png)
 material: aquarium tube 4mm internal / 6mm external
 Section not enough enough I would have to double the diameter
 2 or 4 non-return valve:
