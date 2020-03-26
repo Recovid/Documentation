@@ -58,10 +58,13 @@ MinMax Medical vont essayer de sourcer le capteur.
 
 ## Firmware Arduino
 [https://github.com/Recovid/Controller](https://github.com/Recovid/Controller)
+
+
 manO (Manoel) et son equipe commencent implementer des focntions de base du VAC
 
 ## IHM
 [https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
+
 Germain et Jerome developent l'interface d'utilisateur en Python sur RPi.
 
 
