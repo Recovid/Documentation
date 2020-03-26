@@ -4,9 +4,23 @@ In Europe some countries are going to run out of mechanical ventilators for pati
 It is already the case in Italy, and France probably follow shortly.
 It is also likely that similar crisis will arise in African countries.
 
-[Mindmap of the problem](https://docs.google.com/presentation/d/1UVcfOxayAshpccQHpWjoXpEPnWqnkyWVxpxBRi_Jfv4/edit?ts=5e773a70#slide=id.p)
+Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une solution open-source pour fabriquer des machines de VAC d’urgence.
 
-# Propositions
+L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif citoyen rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
+
+Les premiers prototypes devraient être prêts vers le debut de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars.
+Ce projet est une course contre la montre, et nous avons besoin d’aide.
+
+# Misson
+
+Develop an open source VAC with all contributions being under BSD/MIT/CC license allowing other to copy, replicate, derive similar VACs.
+We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design.
+The desing is driven by requirements provided by emergency professionals, and aim to make the usg of the device easy and familiar for them.
+We hope that if our desing is successful it will be replicated by others.
+
+# Schema general
+
+Three variants are considered, but currently we focus on the one closest to the requirement of medical staff.
 
 ## Recovid-MD - close to a medical device grade ventilator
 This is our current target.
@@ -38,8 +52,61 @@ ISSUE:
 * the rectangular volumes prevent the water used for pressure control from leaving the system I still don't know how to make them.
 * the system is not adjustable in pressure ... except to put several PEP control system in parallel with small valves: not terrible
 
+# Teams
+
+## Experts
+
+Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
+Cyril Fromentin - a travaillé sur un VAC dans le passé
+
+
+## Coordination
+
+Adrien Farrugia - instigateur du projet, electron libre, pousse un peu tout le monde
+Stan Borkowski - coordination technique, design meca
+Jerome Maisonnasse - relation avec les institutions, dev IHM
+
+## Mecanical desing and motor
+
+### proto Inria
+knimp (Sylavain) - modelisation parametrique
+Rix (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
+Stan
+
+### proto Alprobotic
+Benoit - motorisation, premiers test du ballon, proto chez Alprobotic
+
+### Equipe MinMax Medical
+Christophe D et son equipe vont regarder à partir du 27.03 s'ils proposent une meca+motorisation alternative.
+
+## Pressure sensors
+
+Samuel Heidmann - sourcing et interface pour le capteur differenciel et absolu
+Ludovic LM - vanne reblables low-cost
+
+## Vannes PEP
+
+### Equipe MinMax Medical
+Christophe D et son equipe cherchent une solution 
+
+### Equipe Low-cost / DIY
+Ludovic LM - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
+
+## FiO2
+MinMax Medical vont essayer de sourcer le capteur.
+
+## Firmware Arduino
+[https://github.com/Recovid/Controller](https://github.com/Recovid/Controller)
+manO (Manoel) et son equipe commencent implementer des focntions de base du VAC
+
+## IHM
+[https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
+Germain et Jerome developent l'interface d'utilisateur en Python sur RPi.
+
 # Related projects
 
+* [Well documented, nicely designed mecanisation](https://e-vent.mit.edu)
+* [Minimalist VAC, MUR project](https://www.mur-project.org)
 * [A paper from MIT](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf), it is the starting point for our implementation.
 * An alternative, more complex, [bag squeezing design](https://techcrunch.com/2020/03/19/open-source-project-spins-up-3d-printed-ventilator-validation-prototype-in-just-one-week/)
 * [3D printable respirator developped in Nantes, France](https://github.com/covid-response-projects)
