@@ -1,9 +1,5 @@
 # Context
 
-In Europe some countries are going to run out of mechanical ventilators for patients in intensive care units.
-It is already the case in Italy, and France probably follow shortly.
-It is also likely that similar crisis will arise in African countries.
-
 Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une solution open-source pour fabriquer des machines de VAC d’urgence.
 
 L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif citoyen rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
@@ -18,47 +14,12 @@ We try selecting components that are either readily available in hospitals or in
 The desing is driven by requirements provided by emergency professionals, and aim to make the usg of the device easy and familiar for them.
 We hope that if our desing is successful it will be replicated by others.
 
-# Schema general
-
-Three variants are considered, but currently we focus on the one closest to the requirement of medical staff.
-
-## Recovid-MD - close to a medical device grade ventilator
-This is our current target.
-
-![recovid-MD](/images/principe.001.png)
-
-## Recovid-simple
-
-![recovid-simple](/images/principe.002.png)
-
-## Recovid-DIY
-
-It is not clear if this type of device is of any use in a Hospital.
-No sensors, so no clinically usable data.
-![recovid-giy](/images/ventilation_low_tech_v3.svg)
-
-
-## Scrap-made presure valves (APL, PEEP)
-
-material: aquarium tube 4mm internal / 6mm external
-Section not enough enough I would have to double the diameter
-2 or 4 non-return valve:
-https://www.botanic.com/produit/366004/clapet-anti-retour-pour-pompe-a-air.html
-pipe 4/6mm :
-https://www.botanic.com/produit/365979/tuyau-pour-pompe-a-air-4-6mm-silicone-2-5m.html
-possibility of using diffusers in a volume of water to filter the exhaled air:
-https://www.botanic.com/produit/365998/diffuseur-aquarium-ceramique-50mm.html
-ISSUE:
-* the rectangular volumes prevent the water used for pressure control from leaving the system I still don't know how to make them.
-* the system is not adjustable in pressure ... except to put several PEP control system in parallel with small valves: not terrible
-
-# Teams
+# Equipes
 
 ## Experts
 
 Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
 Cyril Fromentin - a travaillé sur un VAC dans le passé
-
 
 ## Coordination
 
@@ -102,6 +63,42 @@ manO (Manoel) et son equipe commencent implementer des focntions de base du VAC
 ## IHM
 [https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
 Germain et Jerome developent l'interface d'utilisateur en Python sur RPi.
+
+
+# Schema general
+
+Three variants are considered, but currently we focus on the one closest to the requirement of medical staff.
+
+## Recovid-MD - close to a medical device grade ventilator
+This is our current target.
+
+![recovid-MD](/images/principe.001.png)
+
+## Recovid-simple
+
+![recovid-simple](/images/principe.002.png)
+
+## Recovid-DIY
+
+It is not clear if this type of device is of any use in a Hospital.
+No sensors, so no clinically usable data.
+![recovid-giy](/images/ventilation_low_tech_v3.svg)
+
+
+## Scrap-made presure valves (APL, PEEP)
+
+material: aquarium tube 4mm internal / 6mm external
+Section not enough enough I would have to double the diameter
+2 or 4 non-return valve:
+https://www.botanic.com/produit/366004/clapet-anti-retour-pour-pompe-a-air.html
+pipe 4/6mm :
+https://www.botanic.com/produit/365979/tuyau-pour-pompe-a-air-4-6mm-silicone-2-5m.html
+possibility of using diffusers in a volume of water to filter the exhaled air:
+https://www.botanic.com/produit/365998/diffuseur-aquarium-ceramique-50mm.html
+ISSUE:
+* the rectangular volumes prevent the water used for pressure control from leaving the system I still don't know how to make them.
+* the system is not adjustable in pressure ... except to put several PEP control system in parallel with small valves: not terrible
+
 
 # Related projects
 
