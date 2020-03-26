@@ -18,21 +18,21 @@ We hope that if our desing is successful it will be replicated by others.
 
 ## Experts
 
-Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
-Cyril Fromentin - a travaillé sur un VAC dans le passé
+* Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
+* Cyril Fromentin - a travaillé sur un VAC dans le passé
 
 ## Coordination
 
-Adrien Farrugia - instigateur du projet, electron libre, pousse un peu tout le monde
-Stan Borkowski - coordination technique, design meca
-Jerome Maisonnasse - relation avec les institutions, dev IHM
+* Adrien Farrugia - instigateur du projet, electron libre, pousse un peu tout le monde
+* Stan Borkowski - coordination technique, design meca
+* Jerome Maisonnasse - relation avec les institutions, dev IHM
 
 ## Mecanical desing and motor
 
 ### proto Inria
-knimp (Sylavain) - modelisation parametrique
-Rix (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
-Stan
+* knimp (Sylavain) - modelisation parametrique
+* Rix (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
+* Stan
 
 ### proto Alprobotic
 Benoit - motorisation, premiers test du ballon, proto chez Alprobotic
@@ -42,8 +42,8 @@ Christophe D et son equipe vont regarder à partir du 27.03 s'ils proposent une 
 
 ## Pressure sensors
 
-Samuel Heidmann - sourcing et interface pour le capteur differenciel et absolu
-Ludovic LM - vanne reblables low-cost
+* Samuel Heidmann - sourcing et interface pour le capteur differenciel et absolu
+* Ludovic LM - vanne reblables low-cost
 
 ## Vannes PEP
 
