@@ -43,14 +43,14 @@ Christophe D et son equipe vont regarder à partir du 27.03 s'ils proposent une 
 ## Pressure sensors
 
 * Samuel Heidmann - sourcing et interface pour le capteur differenciel et absolu
-* Ludovic LM - vanne reblables low-cost
+* Ludovic LM - vanne reblables low-tech
 
 ## Vannes PEP
 
 ### Equipe MinMax Medical
 Christophe D et son equipe cherchent une solution 
 
-### Equipe Low-cost / DIY
+### Equipe Low-tech / DIY
 Ludovic LM - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
 
 ## FiO2
