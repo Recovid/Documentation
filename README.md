@@ -30,7 +30,7 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - communication sur le web et community designer.
 
-**L'équipe est composé de plusieurs autres membres importants, vous trouverez la liste complète ici: **
+**L'équipe est composé de plusieurs autres membres importants, vous trouverez la liste complète ici: https://github.com/Recovid/Documentation/wiki/08-Les-membres-de-l'%C3%A9quipe**
 
 # Related projects
 
