@@ -22,6 +22,7 @@ Ci dessous les pseudos Discorde des contributeurs du projet.
 
 * Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
 * ``cyril FROMENTIN`` - a travaillé sur un VAC dans le passé
+* ``ErikHuneker`` - reglementation dispositifs medicaux
 
 ## Coordination
 
