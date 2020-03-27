@@ -34,7 +34,7 @@ Ci dessous les pseudos Discorde des contributeurs du projet.
 ## Mecanical desing and motor
 
 ### proto Inria
-* ``knimp`` (Sylavain) - modelisation parametrique
+* ``sylefeb`` (Sylavain) - modelisation parametrique
 * ``Rix`` (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
 * ``stan.borkowski``
 
