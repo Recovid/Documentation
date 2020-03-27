@@ -15,7 +15,7 @@ We hope that if our design is successful, it will be replicated by others.
 
 # Equipes
 
-Ci dessous les pseudos Discords des contributeurs au projet.
+Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 ## Experts
 
@@ -30,44 +30,7 @@ Ci dessous les pseudos Discords des contributeurs au projet.
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - communication sur le web et community designer.
 
-## Mecanical design and motors
-
-### Prototype Inria
-* ``sylefeb`` (Sylavain) - modélisation paramétrique
-* ``Rix`` (Eric) - modélisation, motage, tests mécaniques, test du moteur NEMA 23
-* ``stan.borkowski``
-
-### proto Alprobotic
-``Benoît Alprobotic`` - motorisation, premiers test du ballon, proto chez Alprobotic
-
-### Equipe MinMax Medical
-``Christophe D`` et son équipe vont regarder à partir du 27.03 s'ils proposent une meca+motorisation alternative.
-
-## Pressure sensors
-
-* ``samuel.heidmann`` - sourcing et interface pour le capteur différenciel et absolu
-* ``ludovic lm`` - vanne réglables low-tech
-
-## Vannes PEP
-
-### Equipe MinMax Medical
-``Christophe D`` et son équipe cherchent une solution 
-
-### Equipe Low-tech / DIY
-``ludovic lm`` - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
-
-## FiO2
-MinMax Medical vont essayer de sourcer le capteur.
-
-## Firmware Arduino
-[https://github.com/Recovid/Controller](https://github.com/Recovid/Controller)
-
-``manO`` (Manoel) et son équipe commencent implémenter des fonctions de base du VAC
-
-## IHM
-[https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
-
-``Germain`` et ``jerome`` dévellopent l'interface d'utilisateur en Python sur RPi.
+**L'équipe est composé de plusieurs autres membres importants, vous trouverez la liste complète ici: **
 
 # Related projects
 
@@ -79,8 +42,4 @@ MinMax Medical vont essayer de sourcer le capteur.
 * [Low-cost, open source ventilator with Arduino](https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/)
 * [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
 
-
-# Potentially usefull documentation
-
-* [User manuals of various ventilators](https://fr.ifixit.com/Device/Ventilator?fbclid=IwAR2QkkLaEYnkGO83MzNBpAX4AoMacKGG9ShRHLeXB89XToLnUCslMgtQvB8)
 
