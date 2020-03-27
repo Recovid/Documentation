@@ -34,12 +34,11 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/08-Les-membres-de-l'%C3%A9quipe)** 
 
-## Plus d'informations sur le projet ? envie de vous tenir informé ? envie de contribuer ? 
-Vous voulez en savoir plus sur ce projet ? vous voulez contribuer ? vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github RECOVID. 
+## Plus d'informations sur le projet ? Envie de contribuer ? 
+Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github RECOVID. 
 
 Nous avons aussi mis en place un channel DISCORD. 
 Si vous souhaitez participez, nous aider, contacter les responsables de la coordination via le site github. 
-
 
 # Related projects
 
