@@ -29,6 +29,7 @@ Ci dessous les pseudos Discorde des contributeurs du projet.
 * ``a.farrugia`` (Adrien) - instigateur du projet, electron libre, pousse un peu tout le monde
 * ``stan.borkowski`` - coordination technique, design meca
 * ``jerome`` - relation avec les institutions, dev IHM
+* ``rstephane`` - communication sur le web
 
 ## Mecanical desing and motor
 
