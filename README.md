@@ -42,7 +42,7 @@ Si vous souhaitez participez, nous aider, contacter les responsables de la coord
 
 # NEWS
 
-Retrouvez les nouvells (et l'historique) sur cette page **[WIKI](https://github.com/Recovid/Documentation/wiki) du projet.
+Retrouvez les nouvells (et l'historique) sur la page **[NEWS](https://github.com/Recovid/Documentation/wiki/00-News) du projet.
 
 _Les nouvelles sont mises à jour chaque jour._
 
