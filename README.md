@@ -23,12 +23,12 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 * ``cyril FROMENTIN`` - a travaillé sur un VAC dans le passé
 * ``ErikHuneker`` - réglementation dispositifs médicaux
 
-## Coordination
+## Coordination et animation
 
-* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde
-* ``stan.borkowski`` - coordination technique, design meca
+* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté,
+* ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
-* ``rstephane`` - communication sur le web et community designer.
+* ``rstephane`` - communication sur le web , aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/08-Les-membres-de-l'%C3%A9quipe)** 
 
