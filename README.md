@@ -15,8 +15,7 @@ Develop an open source VAC with all contributions being under BSD/MIT/CC license
 
 We hope that if our design is successful, it will be replicated by others.
 
-# Membres des Equipes
-
+# Membres du collectif
 Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 ## Experts
