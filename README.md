@@ -26,7 +26,7 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 ## Coordination et animation
 
-* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté,
+* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - communication sur le web , aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
