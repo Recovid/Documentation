@@ -49,4 +49,15 @@ Si vous souhaitez participez, nous aider, conctacter les responsables de la coor
 * [Low-cost, open source ventilator with Arduino](https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/)
 * [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
 
+# NEWS
+* 20 mars : première identifications de volontaires et contacts avec d'autres projets DIY
+* 21 mars : premier contact avec le CHU de grenoble et identification expert technique médical
+* 22 mars : confirmation du besoin et début de spécification 
+* 23 mars : démarrage du design de la solution et récupération d'un ventilateur manuel (merci CHU de Grenoble)
+* 24 mars : avancement spécifications, avancement design en cours,
+* 25 mars : avancement design méca, éléc, IHM, en cours, 
+* 26 mars : des premiers proto mécanique, essais moteurs, IHM avancée 
+
+_Les nouvelles sont mises à jour chaque jour._
+
 
