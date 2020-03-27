@@ -16,42 +16,44 @@ We hope that if our desing is successful it will be replicated by others.
 
 # Equipes
 
+Ci dessous les pseudos Discorde des contributeurs du projet.
+
 ## Experts
 
 * Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
-* Cyril Fromentin - a travaillé sur un VAC dans le passé
+* ``cyril FROMENTIN`` - a travaillé sur un VAC dans le passé
 
 ## Coordination
 
-* Adrien Farrugia - instigateur du projet, electron libre, pousse un peu tout le monde
-* Stan Borkowski - coordination technique, design meca
-* Jerome Maisonnasse - relation avec les institutions, dev IHM
+* ``a.farrugia`` (Adrien) - instigateur du projet, electron libre, pousse un peu tout le monde
+* ``stan.borkowski`` - coordination technique, design meca
+* ``jerome`` - relation avec les institutions, dev IHM
 
 ## Mecanical desing and motor
 
 ### proto Inria
-* knimp (Sylavain) - modelisation parametrique
-* Rix (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
-* Stan
+* ``knimp`` (Sylavain) - modelisation parametrique
+* ``Rix`` (Eric) - modelisation, motage, tests mecaniques, test du moteur NEMA 23
+* ``stan.borkowski``
 
 ### proto Alprobotic
-Benoit - motorisation, premiers test du ballon, proto chez Alprobotic
+``Benoît Alprobotic`` - motorisation, premiers test du ballon, proto chez Alprobotic
 
 ### Equipe MinMax Medical
-Christophe D et son equipe vont regarder à partir du 27.03 s'ils proposent une meca+motorisation alternative.
+``Christophe D`` et son equipe vont regarder à partir du 27.03 s'ils proposent une meca+motorisation alternative.
 
 ## Pressure sensors
 
-* Samuel Heidmann - sourcing et interface pour le capteur differenciel et absolu
-* Ludovic LM - vanne reblables low-tech
+* ``samuel.heidmann`` - sourcing et interface pour le capteur differenciel et absolu
+* ``ludovic lm`` - vanne reblables low-tech
 
 ## Vannes PEP
 
 ### Equipe MinMax Medical
-Christophe D et son equipe cherchent une solution 
+``Christophe D`` et son equipe cherchent une solution 
 
 ### Equipe Low-tech / DIY
-Ludovic LM - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
+``ludovic lm`` - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
 
 ## FiO2
 MinMax Medical vont essayer de sourcer le capteur.
@@ -60,12 +62,12 @@ MinMax Medical vont essayer de sourcer le capteur.
 [https://github.com/Recovid/Controller](https://github.com/Recovid/Controller)
 
 
-manO (Manoel) et son equipe commencent implementer des focntions de base du VAC
+``manO`` (Manoel) et son equipe commencent implementer des focntions de base du VAC
 
 ## IHM
 [https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
 
-Germain et Jerome developent l'interface d'utilisateur en Python sur RPi.
+``Germain`` et ``jerome`` developent l'interface d'utilisateur en Python sur RPi.
 
 
 # Schema general
