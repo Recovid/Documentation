@@ -1,3 +1,10 @@
+# Communication / Journalistes / Presse
+
+* Pour le moment, merci de ne pas chercher à contacter les équipes techniques et coordination,
+* Nous sommes au travail en mode commando... concentré tous sur le même objectif, il faut avancer efficacement au plus vite,
+* Nous reprendrons conctact avec les journalistes plus tard, promis ! 
+
+
 # Contexte
 
 Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une solution open-source pour fabriquer des machines de VAC d’urgence.
