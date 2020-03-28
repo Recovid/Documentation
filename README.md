@@ -1,6 +1,6 @@
 # Journaliste / Presse
 
-* Pour le moment, **merci de ne pas chercher à contacter les équipes techniques et de coordination**,
+* Pour le moment, **merci de ne pas chercher à contacter les équipes techniques et de coordination** (pour le moment),
 * Nous sommes au travail en mode commando... focalisés tous sur le même objectif, 
 * Notre priorité est pour le moment d'avancer, 
 * Merci pour votre compréhension.
