@@ -3,8 +3,7 @@
 * Pour le moment, merci de ne pas chercher à contacter les équipes techniques et de coordination,
 * Nous sommes au travail en mode commando... focalisés tous sur le même objectif, 
 * Notre priorité est pour le moment d'avancer, 
-* Merci pour votre compréhension,
-* Nous reprendrons les contacts journalistes ultérieurement.
+* Merci pour votre compréhension.
 
 # Contexte
 
