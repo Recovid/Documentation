@@ -1,8 +1,9 @@
-# Communication / Journalistes / Presse
+# Journaliste / Presse
 
-* Pour le moment, merci de ne pas chercher à contacter les équipes techniques et coordination,
-* Nous sommes au travail en mode commando... concentré tous sur le même objectif, il faut avancer efficacement au plus vite,
-* Nous reprendrons conctact avec les journalistes plus tard, promis ! 
+* Pour le moment, merci de ne pas chercher à contacter les équipes techniques et de coordination,
+* Nous sommes au travail en mode commando... focalisé tous sur le même objectif, 
+* Notre prioirité est pour le moment d'avancer, nous accepterons les contacts journalistes plus tard. 
+* Merci pour votre compréhension 
 
 
 # Contexte
