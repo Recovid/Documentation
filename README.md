@@ -24,7 +24,7 @@ Develop an open source VAC with all contributions being under BSD/MIT/CC license
 
 We hope that if our design is successful, it will be replicated by others.
 
-# TIME LINE (23 Mars 2020)
+# TIME LINE (29 Mars 2020)
 ![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
 
 # Membres du collectif
@@ -45,9 +45,9 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/02-Organisation)**
 
-## Méthodologie / Organisation
+## Méthodologie / Organisation du projet
 
-Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un découpement en lots (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
+Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
 
 ## Plus d'informations sur le projet ? Envie de contribuer ?
 Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents repository du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
