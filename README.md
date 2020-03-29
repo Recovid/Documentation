@@ -12,7 +12,7 @@ Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (mac
 
 L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
 
-**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, l'entreprise Min Max Medical contribue au projet en concevant collaborativement la version 2 du prototype avant une plus large production et utilisation**
+**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, l'entreprise Min Max Medical contribue au projet en concevant collaborativement la version 2 du prototype**
 
 Les premiers prototypes devraient être prêts vers le début de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars, début avril.
 
@@ -36,7 +36,7 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 * ``cyril FROMENTIN`` - a travaillé sur un VAC dans le passé
 * ``ErikHuneker`` - réglementation dispositifs médicaux
 
-## Coordination et animation
+## Coordination
 
 * ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
@@ -45,10 +45,12 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/02-Organisation)**
 
-## Plus d'informations sur le projet ? Envie de contribuer ?
-Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents reposirtory du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
+## Méthodologie / Organisation
 
-Nous avons aussi mis en place un channel DISCORD.
+Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un découpement en lots (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
+
+## Plus d'informations sur le projet ? Envie de contribuer ?
+Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents repository du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
 
 Si vous souhaitez participez, nous aider, contacter les responsables de la coordination via le site github.
 
