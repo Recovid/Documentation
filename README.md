@@ -27,27 +27,35 @@ We hope that if our design is successful, it will be replicated by others.
 # TIME LINE (29 Mars 2020)
 ![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
 
-# Membres du collectif
+# Organisation du projet et membres
+
+## Méthodologie / Organisation
+
+Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
+
+
+## Membres du collectif
+
 Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
-## Experts
+### Experts
 
 * Urgentiste CHU (je ne met pas son nom pour limiter des solicitations)
 * ``cyril FROMENTIN`` - a travaillé sur un VAC dans le passé
 * ``ErikHuneker`` - réglementation dispositifs médicaux
 
-## Coordination
+### Coordination
 
 * ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - communication sur le web , aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
 
-**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/02-Organisation)**
+**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/99-Les-membres-du-collectif)**
 
-## Méthodologie / Organisation du projet
+## Quelques images du travail en cours
 
-Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
+![Quelques images](https://github.com/Recovid/Documentation/blob/master/images/image generale.png)
 
 ## Plus d'informations sur le projet ? Envie de contribuer ?
 Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents repository du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
