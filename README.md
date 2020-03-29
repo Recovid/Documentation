@@ -43,6 +43,8 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 
 La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.
 
+> Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible. Tout choix de matériel et de solution doit être guidé par cela.
+
 ## Membres du collectif (pseudo DISCORD)
 
 ### Experts
