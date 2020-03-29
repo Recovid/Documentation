@@ -55,7 +55,7 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 
 ## Quelques images du travail en cours
 
-![Quelques images](https://github.com/Recovid/Documentation/blob/master/images/image generale.png)
+![Quelques images](https://github.com/Recovid/Documentation/blob/master/images/image%20 generale.png)
 
 ## Plus d'informations sur le projet ? Envie de contribuer ?
 Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents repository du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
