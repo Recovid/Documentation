@@ -1,22 +1,24 @@
-# Journaliste / Presse
+# NEWS
 
-* Pour le moment, **merci de ne pas chercher à contacter les équipes techniques et de coordination**,
-* Nous sommes au travail en mode commando... focalisés tous sur le même objectif, 
-* Notre priorité est pour le moment d'avancer, 
-* Merci pour votre compréhension.
+Retrouvez les nouvelles (et l'historique) sur la page [NEWS](https://github.com/Recovid/Documentation/wiki/00-News) du projet.
 
-# Contexte
+_Les nouvelles sont mises à jour chaque jour._
 
-Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une solution open-source pour fabriquer des machines de VAC d’urgence.
+# Notre objectif ?
 
-L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif citoyen rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
+Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
 
-Les premiers prototypes devraient être prêts vers le début de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars.
+* Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
+
+L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
+
+**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, l'entreprise Min Max Medical contribue au projet en concevant collaborativement la version 2 du prototype avant une plus large production et utilisation**
+
+Les premiers prototypes devraient être prêts vers le début de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars, début avril.
+
 Ce projet est une course contre la montre, et nous avons besoin d’aide.
 
-Le projet se veut un projet libre avec la production de livrables open source & open hardware.
-
-# Mission
+# Our goal ?
 
 Develop an open source VAC with all contributions being under BSD/MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
@@ -41,19 +43,21 @@ Ci dessous les contributeurs au projet (pseudo DISCORD) :
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - communication sur le web , aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
 
-**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/02-Organisation)** 
+**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/02-Organisation)**
 
-## Plus d'informations sur le projet ? Envie de contribuer ? 
-Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github RECOVID. 
+## Plus d'informations sur le projet ? Envie de contribuer ?
+Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents reposirtory du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
 
-Nous avons aussi mis en place un channel DISCORD. 
-Si vous souhaitez participez, nous aider, contacter les responsables de la coordination via le site github. 
+Nous avons aussi mis en place un channel DISCORD.
 
-# NEWS
+Si vous souhaitez participez, nous aider, contacter les responsables de la coordination via le site github.
 
-Retrouvez les nouvelles (et l'historique) sur la page [NEWS](https://github.com/Recovid/Documentation/wiki/00-News) du projet.
+# Journaliste / Presse
 
-_Les nouvelles sont mises à jour chaque jour._
+* Pour le moment, **merci de ne pas chercher à contacter les équipes techniques et de coordination**,
+* Nous sommes au travail en mode commando... focalisés tous sur le même objectif,
+* Notre priorité est pour le moment d'avancer,
+* Merci pour votre compréhension.
 
 # Related projects
 
