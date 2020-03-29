@@ -27,16 +27,23 @@ We hope that if our design is successful, it will be replicated by others.
 # TIME LINE (29 Mars 2020)
 ![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
 
-# Organisation du projet et membres
+# Organisation, méthodologie et membres du projet
 
-## Méthodologie / Organisation
+## Organisation
 
 Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
 
+## Méthodologie
 
-## Membres du collectif
+1. Cahier des besoins ambitieux élaboré en collaboration avec Nicolas Terzi, chef de service réanimation au CHU de Grenoble,
+2. Prototype basé sur le réemploi de matériel médical,
+3. Dispositif répondant aux besoins spécifiques des patients covid,
+4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
+5. Contact pris avec en vue d'une étude clinique avant déploiement.
 
-Ci dessous les contributeurs au projet (pseudo DISCORD) :
+La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.
+
+## Membres du collectif (pseudo DISCORD)
 
 ### Experts
 
