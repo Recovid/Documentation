@@ -22,7 +22,7 @@ Develop an open source VAC with all contributions being under BSD/MIT/CC license
 
 We hope that if our design is successful, it will be replicated by others.
 
-# TIME LINE (23 MArs 2020)
+# TIME LINE (23 Mars 2020)
 ![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
 
 # Membres du collectif
