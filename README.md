@@ -41,7 +41,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
 5. Contact pris avec en vue d'une étude clinique avant déploiement.
 
-La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.
+**La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.**
 
 > Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible.
 
