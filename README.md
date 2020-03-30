@@ -58,7 +58,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 * ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
-* ``rstephane`` - aide à la communication sur le web et inter équipes, aide sur les bonnes pratiques FLOSS & Communities (_community management_), MAJ site.
+* ``rstephane`` - aide sur les bonnes pratiques FLOSS & _community management_, aide à la communication inter équipes, MAJ site.
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/99-Les-membres-du-collectif)**
 
