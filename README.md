@@ -55,7 +55,7 @@ La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité d
 
 ### Coordination
 
-* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté, coordonne les partenaires.
+* ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - aide à la communication sur le web et inter équipes, aide sur les bonnes pratiques FLOSS & Communities (_community management_), MAJ site.
