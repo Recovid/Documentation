@@ -43,7 +43,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 
 La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.
 
-> Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible. Tout choix de matériel et de solution doit être guidé par cela.
+> Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible.
 
 ## Membres du collectif (pseudo DISCORD)
 
@@ -58,7 +58,7 @@ La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité d
 * ``a.farrugia`` (Adrien) - instigateur du projet, pousse un peu tout le monde, animateur de la communauté, coordonne les partenaires.
 * ``stan.borkowski`` - coordination technique, design meca, et l'un des autres "animateurs" de la communauté :)
 * ``jerome`` - relation avec les institutions, dev IHM
-* ``rstephane`` - communication sur le web , aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
+* ``rstephane`` - communication inter-équipes, aide à la communication sur le web, aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
 
 **L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/99-Les-membres-du-collectif)**
 
