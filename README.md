@@ -30,9 +30,11 @@ We hope that if our design is successful, it will be replicated by others.
 
 Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
 
+- Les porteurs du projet sont: le CHU de Grenoble, la PME (dont le nom gardé secret) et INRIA.
+
 ## Méthodologie
 
-1. Cahier des besoins ambitieux élaboré en collaboration avec Nicolas Terzi, chef de service réanimation au CHU de Grenoble,
+1. Cahier des besoins ambitieux élaboré en collaboration avec un Urgentiste CHU (je ne met pas son nom pour limiter des solicitations), chef de service réanimation au CHU de Grenoble,
 2. Prototype basé sur le réemploi de matériel médical,
 3. Dispositif répondant aux besoins spécifiques des patients covid,
 4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
