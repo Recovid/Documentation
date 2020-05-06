@@ -24,9 +24,6 @@ Develop an open source VAC with all contributions being under BSD/MIT/CC license
 
 We hope that if our design is successful, it will be replicated by others.
 
-# TIME LINE (29 Mars 2020)
-![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
-
 # Organisation, méthodologie et membres du projet
 
 ## Organisation
@@ -41,7 +38,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
 5. Contact pris avec en vue d'une étude clinique avant déploiement.
 
-**La société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.**
+**La société <unknown> s'est proposé de prendre la responsabilité du fabriquant.**
 
 > Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible.
 
@@ -66,7 +63,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 
 ![Quelques images](https://github.com/Recovid/Documentation/blob/master/images/images_travaux.png)
 
-## Plus d'informations sur le projet ? Envie de contribuer ?
+## Plus d'informations sur le projet ?
 Vous trouverez toutes les informations sur l'état d'avancement, les schémas, le prototype, etc. dans les différents repository du projet mais aussi et surtout sur les pages **[WIKI](https://github.com/Recovid/Documentation/wiki)** du site Github.
 
 Si vous souhaitez participez, nous aider, contacter les responsables de la coordination via le site github.
