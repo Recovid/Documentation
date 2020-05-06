@@ -30,8 +30,6 @@ We hope that if our design is successful, it will be replicated by others.
 
 Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses conséquences), nous avons décidé de modifier l'organisation pour nous diriger vers un **découpement en lots** avec un responsable par domaine (voir la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation)).
 
-- Les porteurs du projet sont: le CHU de Grenoble, la PME (dont le nom gardé secret) et INRIA.
-
 ## Méthodologie
 
 1. Cahier des besoins ambitieux élaboré en collaboration avec un Urgentiste CHU (je ne met pas son nom pour limiter des solicitations), chef de service réanimation au CHU de Grenoble,
@@ -45,6 +43,8 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 > Notre fil directeur ? Répondre au besoin du CHU de Grenoble dans un délai le plus court possible.
 
 ## Membres du collectif (pseudo DISCORD)
+
+- Les porteurs du projet sont: le CHU de Grenoble, la PME (dont le nom gardé secret) et INRIA.
 
 ### Experts
 
