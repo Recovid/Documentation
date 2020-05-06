@@ -57,7 +57,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 * ``jerome`` - relation avec les institutions, dev IHM
 * ``rstephane`` - aide sur les bonnes pratiques FLOSS & _community management_, aide à la communication inter équipes, MAJ site.
 
-**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/99-Les-membres-du-collectif)**
+**L'équipe est composé de plusieurs autres membres importants, vous trouverez la [liste complète des membres ici](https://github.com/Recovid/Documentation/wiki/99-Le-collectif-et-les-partenaires)**
 
 ## Quelques images du travail en cours
 
