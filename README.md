@@ -86,3 +86,9 @@ Si vous souhaitez participez, nous aider, contacter les responsables de la coord
 * [3D printable respirator developped in Nantes, France](https://github.com/covid-response-projects)
 * [Low-cost, open source ventilator with Arduino](https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/)
 * [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
+
+---
+
+# Last but not least / Disclaimer
+
+Nous rappellons que les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
