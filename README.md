@@ -1,8 +1,6 @@
 # NEWS
 
-Retrouvez les nouvelles (et l'historique) sur la page [NEWS](https://github.com/Recovid/Documentation/wiki/00-News) du projet.
-
-_Les nouvelles sont mises à jour chaque jour._
+Les nouvelles sont mises à jour chaque jour sur notre channel DISCORD.
 
 # Notre objectif ?
 
