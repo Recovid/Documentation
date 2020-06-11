@@ -32,9 +32,7 @@ Au 28 mars 2020, par réaction à l’accélération de la pandémie (et ses con
 
 1. Cahier des besoins ambitieux élaboré en collaboration avec un Urgentiste CHU (je ne met pas son nom pour limiter des solicitations), chef de service réanimation au CHU de Grenoble,
 2. Prototype basé sur le réemploi de matériel médical,
-3. Dispositif répondant aux besoins spécifiques des patients covid,
-4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
-5. Contact pris avec en vue d'une étude clinique avant déploiement.
+3. Contact pris avec en vue d'une étude clinique avant déploiement.
 
 **La société <unknown> s'est proposé de prendre la responsabilité du fabriquant.**
 
