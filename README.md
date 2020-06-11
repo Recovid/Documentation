@@ -87,8 +87,16 @@ Si vous souhaitez participez, nous aider, contacter les responsables de la coord
 * [Low-cost, open source ventilator with Arduino](https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/)
 * [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
 
----
+# AVERTISSEMENT
+L'attention de l'utilisateur est attirée sur les risques associés au chargement, à l'utilisation, à la modification et/ou au développement et à la reproduction des éléments du prototype Recovid par l'utilisateur étant donné leur spécificité, qui peut les rendre complexes à manipuler et qui sont donc réservés à des professionnels avertis possédant des connaissances adéquates.
 
-# Last but not least / Disclaimer
+Les utilisateurs sont donc invités à tester l'adéquation des éléments du prototype Recovid à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus généralement, à l'utiliser et l'exploiter dans des mêmes conditions de sécurité optimales Les éléments du prototype Recovid ne sont pas des dispositifs médicaux et n'ont fait l'objet d'aucune homologation officielle. 
 
-Nous rappellons que les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
+L'utilisateur doit prendre connaissance des licences sous lesquelles les éléments du prototype Recovid sont diffusés, et notamment les clauses relatives aux limitations de responsabilité et de garantie. Avant d’utiliser un matériel en tant que dispositif médical, vous devez vérifier que ce matériel est conforme à la réglementation du pays dans lequel il est utilisé et qu’il a subi tous les tests cliniques nécessaires.
+
+# DISCLAIMER
+The risks associated with loading, using, modifying and/or developing or reproducing the elements of Recovid prototype by the user are brought to the user's attention, given its particular status, which may make it complicated to use, with the result that its use is reserved for developers and experienced professionals having in-depth adequate knowledge. 
+
+Users are therefore encouraged to load and test the suitability of the elements of Recovid prototype as regards their requirements in conditions enabling the security of their systems and/or data to be ensured and, more generally, to use and operate it in optimal security conditions. The elements of Recovid prototype are not medical devices and have not been the subject of official approval. 
+
+The user must be aware of the licenses under which the elements of Recovid prototype are distributed, and in particular the clauses related to limitation of liability and disclaimer of warranties. Before using any equipment as a medical device, you must verify that this equipment complies with the regulations of the country in which it is used and has been submitted to all necessary clinical tests.
